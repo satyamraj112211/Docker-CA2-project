@@ -2,7 +2,7 @@
 
 ![Build Status](https://05c3-125-16-189-245.ngrok-free.app/buildStatus/icon?job=Secure-NoteBook)
 
-A secure, containerized full-stack application for managing personal notes with built-in encryption and sharing capabilities...
+A secure, containerized full-stack application for managing personal notes with built-in \encryption and sharing capabilities...
 
 ## 🚀 Features
 
