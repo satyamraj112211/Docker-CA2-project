@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumeet2930/Secure-NoteBook.git"
+  }
+}

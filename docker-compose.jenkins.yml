@@ -1,0 +1,15 @@
+services:
+  jenkins:
+    image: jenkins/jenkins:lts
+    container_name: local-jenkins
+    ports:
+      - "8080:8080" # Jenkins web interface
+      - "50000:50000" # Jenkins agents communication port
+    volumes:
+      - jenkins-data:/var/jenkins_home
+      # Mount the host Docker socket so Jenkins can build Docker images (required for your Jenkinsfile)
+      - /var/run/docker.sock:/var/run/docker.sock 
+
+volumes:
+  jenkins-data:
+    driver: local
