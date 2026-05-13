@@ -105,7 +105,7 @@ Secure-NoteBook/
 
 1. **Clone the repository**:
    ```bash
-    git clone https://github.com/Sumeet2930/Secure-NoteBook
+    git clone https://github.com/satyamraj112211/Secure-NoteBook
     cd Secure-NoteBook
    ```
 
@@ -122,11 +122,8 @@ Secure-NoteBook/
    docker-compose up --build
    ```
 
-4. **Access the App**:
-   - **Frontend**: http://localhost:5173
-   - **Backend API**: http://localhost:5050
 
----
+
 
 ## 🌐 Deployment (Production)
 
