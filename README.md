@@ -11,7 +11,7 @@ A secure, containerized full-stack application for managing personal notes with 
 - **File Sharing**: Share notes with other users via email with an automatic 24-hour expiration.
 - **Automated Cleanup**: Background process to periodically remove expired shared files.
 - **CI/CD Integration**: Jenkins pipeline ready for automated builds and deployments.
-- **Containerized**: Fully orchestrated with Docker and Docker Compose.
+- **Containerized**: Fully orchestrated with Docker and Docker Compose..
 
 ---
 
