@@ -17,7 +17,7 @@ A secure, containerized full-stack application for managing personal notes with 
 
 ## 🏗️ System Design & Architecture
 
-Secure-NoteBook is designed as a secure, scalable, and containerized application. It follows a client-server architecture with a clear separation of concerns.
+Secure-NoteBook is designed as a secure, scalable, and containerized application. It follows a client-server architecture with a clear separation of concerns..
 
 ### 1. High-Level Architecture
 
